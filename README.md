@@ -91,7 +91,7 @@ By collaborating on this project, we can ensure the sustainable revitalization a
 ## Repository Structure
 
 ```plaintext
-├── Samburu-ILR/
+├── SamburuNLP-Translate/
 │   ├── README.md
 │   ├── docs/
 │   │   ├── project_overview.md
