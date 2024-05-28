@@ -73,12 +73,12 @@ A database for managing multimedia content, ensuring easy retrieval and use for 
 A database for storing and organizing community-generated content, fostering community engagement and participation.
 
 <!-- Contact Me on WhatsApp Button -->
-<a href="https://wa.me/0723346355" target="_blank">
+<a href="https://wa.me/254723346355" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?logo=whatsapp&style=flat-square" alt="Contact Me on WhatsApp">
 </a>
 
 <!-- Donate via M-Pesa Button -->
-<a href="mpesa://pay?number=0723346355&amount=AMOUNT&message=Donation" target="_blank">
+<a href="mpesa://pay?number=254723346355&amount=AMOUNT&message=Donation" target="_blank">
   <img src="https://img.shields.io/badge/Donate%20via%20M--Pesa-Support%20Us-079A4A?logo=mpesa&style=flat-square" alt="Donate via M-Pesa">
 </a>
 
